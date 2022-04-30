@@ -9,7 +9,7 @@ Welcome to the [Virtualan Software](https://www.virtualansoftware.com/).
 Virtualan software seeks to improve the insprint automation and helps to achive(99.99%) insprint automation ❤️.
 
 ## 🛠️ About us
-Creates products using 'Low Code Technology' like Idaithalam, Virtualan, which is a Low code enterprise test automation product, is one such product in the basket. There are many other product created by Virtualan software for different use cases and challenges. For Example: Low Code Kafka Testing, Low Code UI Automation Testing, Low code DB Testing, Low code Mobile Testing and Service Virtualization. The products are ready to be adopted for Cloud.
+Creates products using 'Low Code Technology'. Products which is Idaithalam, Virtualan are Enterprise test automation product which support insprint automation and helps bring more ROI. There are few other areas also addressed with this like Low Code Kafka Testing, Low Code UI Automation Testing, Low code DB Testing, Low code Mobile Testing and Service Virtualization. The products are ready to be adopted for Cloud as well.
 
 ## 👩🏽‍💻 Contribute to Virtualan
 First of all, thanks for getting involved! ✨ There are lot of awesome ways to contribute to the our Initiative. Code isn't the only way to help out! ❤️  Fell free to email us to get involved. Happy Contributing!  
