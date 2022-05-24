@@ -2,7 +2,7 @@
 Welcome to the [Virtualan Software](https://www.virtualansoftware.com/). 
 
 [![Slack](https://img.shields.io/badge/Slack-virtualan--software.slack.com-yellowgreen)](https://virtualan-software.slack.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@virtualns-blue)](https://twitter.com/virtualans)
+[![Twitter](https://img.shields.io/badge/Twitter-@virtualans-blue)](https://twitter.com/virtualans)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-@virtualan-software.svg)](https://www.linkedin.com/company/virtualan-software)
 [![YouTube](https://img.shields.io/badge/YouTube-@virtualan-lightgrey.svg)](https://www.youtube.com/channel/UCny1F1GiYoo2pARDaSDIzYw/featured)
 
